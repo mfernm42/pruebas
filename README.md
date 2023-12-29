@@ -3,7 +3,8 @@
 
 Equipo:
 
-  71746127L, [Marcos Fernández Martínez](https://github.com/mfernm42).\n
+  71746127L, [Marcos Fernández Martínez](https://github.com/mfernm42).
+  
   71995895F, Saad Ali Hussain Kausar(https://github.com/camilafernanda).
   02770831K, Ángel Martínez Fernández(https://github.com/camilafernanda).
 
