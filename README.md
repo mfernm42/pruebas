@@ -1,4 +1,4 @@
-<em> #Proyecto Warden </em>
+<em> # Proyecto Warden </em>
 
 
 Equipo:
@@ -7,7 +7,7 @@ Equipo:
   71995895F, Saad Ali Hussain Kausar.
   02770831K, Ángel Martínez Fernández.
 
-##Introducción:
+## Introducción:
 
 Warden. Aplicación móvil para el sistema Android. El funcionamiento base permitirá al usuario buscar libros, series y películas de su interés para visualizar valoraciones y comentarios sobre estos y mediante la selección de preferencias, poder recibir sugerencias de cuál puede ser el próximo libro, serie o película que le marque.
 
